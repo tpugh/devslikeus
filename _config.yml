@@ -15,10 +15,10 @@ author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /media/compressed
 author_default_avatar: /profile-pic.jpg
-instagram: "#"
-twitter: "#"
+instagram: "https://www.instagram.com/devslike.us/"
+twitter: "https://twitter.com/tpugh_"
 facebook: "https://www.facebook.com/dialog/share?app_id=446611785530020&href=https://anchor.fm/devslikeus&redirect_uri=https://anchor.fm/devslikeus"
-youtube: "#"
+youtube: "https://www.youtube.com/channel/UCOQaCm4q93rCUtTMI-YsaLg/"
 
 
 encoding: utf-8
