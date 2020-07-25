@@ -15,14 +15,11 @@ author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /media/compressed
 author_default_avatar: /profile-pic.jpg
-tumblr: "#"
-pinterest: "#"
 instagram: "#"
 twitter: "#"
-facebook: "#"
+facebook: "https://www.facebook.com/dialog/share?app_id=446611785530020&href=https://anchor.fm/devslikeus&redirect_uri=https://anchor.fm/devslikeus"
 youtube: "#"
-vimeo: "#"
-soundcloud: "#"
+
 
 encoding: utf-8
 defaults:
