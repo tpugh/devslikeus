@@ -1,6 +1,6 @@
 ---
 layout: page-full
-title: About Us
+title: 
 ---
 
 {% include about.html %}
