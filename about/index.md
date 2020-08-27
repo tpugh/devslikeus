@@ -5,6 +5,6 @@ title: About Us
 
 
 #### About Us
-###Mission Statement  
+### Mission Statement  
 
 {% include about.html %}
