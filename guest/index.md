@@ -1,5 +1,5 @@
 ---
 layout: page-full
-title: Show Guest
+title: 
 ---
 {% include guest_form.html %}
