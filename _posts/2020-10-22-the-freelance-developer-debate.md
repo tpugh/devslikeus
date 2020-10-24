@@ -1,7 +1,7 @@
 ---
 author: Devs Like Us
 type: youtube
-yt-video-id: OOXEtJgZ1Rw&t
+yt-video-id: OOXEtJgZ1Rw
 homedisplay: iframe
 title: 
 layout: post-classic-sidebar-left 
