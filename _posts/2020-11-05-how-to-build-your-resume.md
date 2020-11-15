@@ -6,4 +6,4 @@ homedisplay: iframe
 title: 
 layout: post-classic-sidebar-left 
 ---
-Summary: Summary: Terrence, JB, and Clarence discuss constructing your resume, and how to get noticed from it.
+Summary:Terrence, JB, and Clarence discuss constructing your resume, and how to get noticed from it.
